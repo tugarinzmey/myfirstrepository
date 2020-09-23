@@ -1,1 +1,2 @@
 # myfirstrepository
+tri dva odin
